@@ -1,3 +1,3 @@
 # Ola-Dashboard
 
-![App Screenshot](assets/Slide1.png)
+![Power Bi Overall Dashboard](Slide1.png)
